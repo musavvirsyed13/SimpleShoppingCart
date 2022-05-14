@@ -1,3 +1,10 @@
+Simple Shopping Cart Using ReactJS
+
+
+![Shoppingcart image](https://user-images.githubusercontent.com/88196804/168405793-aa8f850d-f669-4c6e-9751-dbbed512d7d8.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
